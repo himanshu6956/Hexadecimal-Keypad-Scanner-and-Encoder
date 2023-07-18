@@ -1,25 +1,3 @@
-
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 10.02.2022 16:29:10
-// Design Name: 
-// Module Name: Row_Signal
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
-
 module Row_Signal(                                                //Scans for row of the asserted key
     input [15:0] Key,
     input [3:0] Col,
