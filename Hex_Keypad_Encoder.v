@@ -1,24 +1,3 @@
-
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 10.02.2022 16:29:10
-// Design Name: 
-// Module Name: Hex_Keypad_Grayhill_072
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 /* Decode the asserted Row and Col
         Grayhill 072 Hex Keypad
                                     Col[0] Col[1] Col[2] Col[3]
